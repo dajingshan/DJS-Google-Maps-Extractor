@@ -4,7 +4,8 @@ DJS Google Maps Extractor is a software that extracts data based on Google Maps.
 Website: http://www.vipkingshop.com/
 <br>
 
-How to use DJS Google Map Extractor
+<b><font size=5>How to use DJS Google Map Extractor</font></b>
 <br>
 see the url: http://vipkingshop.com/help/googlemapshelp.html
 <img src = "http://vipkingshop.com/help/images/googlemaps1.png">
+<img scr = "http://vipkingshop.com/help/images/googlemaps1.png">
